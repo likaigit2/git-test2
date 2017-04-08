@@ -8,6 +8,7 @@ public class Test6 {
 		System.out.println("sss");
 		System.out.println("aaa");
 		System.out.println("cccc");
+		System.out.println("dddd");
 	}
 
 }
